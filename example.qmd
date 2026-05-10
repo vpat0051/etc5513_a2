@@ -9,3 +9,12 @@ editor: visual
 
 This is my Quarto document for ETC5513 Assignment 2.
 It demonstrates reproducible reporting using Quarto and R.
+
+
+## Summary Statistics
+
+This section was added on testbranch.
+
+```{r}
+summary(mtcars)
+```
